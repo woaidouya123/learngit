@@ -1,3 +1,3 @@
 how to use git
-nihao
+ni bu hao
 hello world
