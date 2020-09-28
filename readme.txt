@@ -6,4 +6,4 @@ git commit test
 woaidouya commit test123
 
 git branch dev
-git switch dev
+git switch d
