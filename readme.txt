@@ -7,5 +7,8 @@ woaidouya commit test123
 
 git branch dev
 git switch dev
+
 create dev again
-git switch d
+
+git checkout -b test
+
