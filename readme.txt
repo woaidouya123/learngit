@@ -9,3 +9,5 @@ git branch dev
 git switch dev
 
 create dev again
+
+git checkout -b test
