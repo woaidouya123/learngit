@@ -11,3 +11,5 @@ git switch dev
 create dev again
 
 git checkout -b test
+
+git rebase1
