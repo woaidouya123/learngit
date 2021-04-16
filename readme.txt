@@ -14,3 +14,6 @@ git checkout -b test
 
 git rebase1
 git rebase2
+git rebase3
+git rebase4
+git rebase5
